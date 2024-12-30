@@ -1,0 +1,8 @@
+.env
+*.pem
+Google Cloud Key/
+__pycache__/
+*.pyc
+bot.log
+venv/
+config.py
